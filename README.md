@@ -10,7 +10,7 @@ A dark theme with attratice colores for Visual Studio Code.
 1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
 2. Search for `A theme with soft and tender colores`, choose "A theme with soft and tender colores" by moondevaa
 3. Click **Install** to install it
-4. Navigate to File > Preferences > Color Theme > ""dark plus midnight moon"A theme with soft and tender colores"
+4. Navigate to File > Preferences > Color Theme > "A theme with soft and tender colores"
 #enjoy coding,.
 ## change Log
 fixed most bugs ..
@@ -24,10 +24,22 @@ fixed most bugs ..
   </div>
 
 # Screenshots
-
+###########
 <div align="center">
-    <h2>React js</h2>
-    <img src="https://raw.githubusercontent.com/AaBbdev29/dsrkplusmidnightmoon/main/midnight.png" alt="Moon in React"/>
+    <h2>js</h2>
+    <img src="https://github.com/AaBbdev29/A-theme-with-tender-colors/blob/main/pic/js.png?raw=true" alt="js"/>
+</div>
+###########
+###########
+<div align="center">
+    <h2>Rust</h2>
+    <img src="https://github.com/AaBbdev29/A-theme-with-tender-colors/blob/main/pic/rs.png?raw=true" alt="rs"/>
+</div>
+###########
+###########
+<div align="center">
+    <h2>Python</h2>
+    <img src="https://github.com/AaBbdev29/A-theme-with-tender-colors/blob/main/pic/py.png?raw=true" alt="py"/>
 </div>
 ###########
 
